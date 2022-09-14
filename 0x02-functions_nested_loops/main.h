@@ -1,4 +1,4 @@
-#ifndef HOLBERTON_H_INCLUDED
+#ifndef HOLBERTON_H_INCLUDED
 
 #ifndef HOLBERTON_H_INCLUDED
 
@@ -35,4 +35,3 @@ void num(int r, int n);
 
 
 #endif
-
